@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Dev\Aruco31\include\aruco\fractallabelers\fractalmarker.h(38,1): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+C:\Dev\Aruco31\include\aruco\fractallabelers\fractallabeler.h(41,76): warning C4244: 'return' : conversion de 'double' en 'int', perte possible de données
+E:\VSION\TP5 - Mini OpenGL App RA ArUco\TP5 - Aruco3112MiniOpenGL\main.cpp(273,29): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+E:\VSION\TP5 - Mini OpenGL App RA ArUco\TP5 - Aruco3112MiniOpenGL\main.cpp(274,30): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  Aruco3112MiniOpenGL.vcxproj -> E:\VSION\TP5 - Mini OpenGL App RA ArUco\TP5 - Aruco3112MiniOpenGL\x64\Debug\Aruco3112MiniOpenGL.exe
